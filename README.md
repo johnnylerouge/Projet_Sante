@@ -1,4 +1,4 @@
-## Objectif :
+## Mission :
 
 L'agence ["Santé publique France"](http://www.santepubliquefrance.fr/) a lancé __un appel à projets pour trouver des idées innovantes d’applications en lien avec l'alimentation.__ L'idée est donc d'y participer en proposant une application.
 
